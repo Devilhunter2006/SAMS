@@ -20,6 +20,8 @@
 /storage/pail
 /vendor
 /venv
+/.Scripts
+/.Lib
 Homestead.json
 Homestead.yaml
 Thumbs.db
